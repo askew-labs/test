@@ -14,7 +14,7 @@ int main()
 
 	cout<<ball<<endl;
 
-	cout<<ball<<endl;
+	cout<<mouse<<" chases "<<cat<<" 2";
 
 
 
